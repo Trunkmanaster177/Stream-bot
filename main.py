@@ -6,7 +6,7 @@ from keep_alive import keep_alive
 # ---------- CONFIG ----------
 DAILY_START_TIME = "18:00"  # 24hr format, e.g., 09:00 = 9 AM
 STREAM_URL = "rtmp://a.rtmp.youtube.com/live2/"
-STREAM_KEY = "YOUR_STREAM_KEY_HERE"  # replace with your key
+STREAM_KEY = "g8qz-gwg4-5x0b-xyf7-dd5q"  # replace with your key
 VIDEO = "video.mp4"
 STREAM_DURATION_HOURS = 2  # stops after 2 hours
 # ----------------------------
